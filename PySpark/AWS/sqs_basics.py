@@ -1,5 +1,5 @@
 """
-this program will create an SQS Queue with current-date as name if it already doesn't
+this program will create an SQS Queue with current-date as name if it doesn't
 exists. and send a sample message to the queue.
 """
 import boto3
