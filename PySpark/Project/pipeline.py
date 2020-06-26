@@ -10,7 +10,7 @@ from datetime import date
 
 # 1. Create Queue, and Send messages to queue
 # 2. Upload File to S3
-# 3. Insert records into MySQL/SQLite
+# 3. Insert records into MySQL/SQLite : /resources/mysql-connector-java-8.0.20/mysql-connector-java-8.0.20.jar
 # 4. Load file into HDFS Location (for now, local HDFS Directory)
 
 
