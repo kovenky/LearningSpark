@@ -4,7 +4,7 @@ exists. and send a sample message to the queue.
 """
 import boto3
 from datetime import date
-from PySpark.Project.sqshelper import SQSHelper
+from PySpark.DataPipeline.sqshelper import SQSHelper
 
 
 # Create SQS client
